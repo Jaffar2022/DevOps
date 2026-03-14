@@ -1,2 +1,3 @@
 This is a new file in git.
 New feat-1 added here.
+New feat-2 added here.
